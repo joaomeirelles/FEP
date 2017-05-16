@@ -6,11 +6,12 @@
 <span style="color:gray; font-size: 1em;">joao meirelles</span>
 
 ---
-![Logo](assets/logo.jpg)
+![ancient1](pics/ancient2_nasa.jpg)
 <span style="color:black; font-size: 1em;">where are cities coming from?</span>
 <br>
 
 +++
+![ancient1](pics/catal_map_1964.png)
 
 social guathering!
 
