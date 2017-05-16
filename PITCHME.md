@@ -1,10 +1,12 @@
 
 <span style="color:black; font-size: 2em;">the kind of problem a city is</span>
 <br>
+![eric_fischer](pics/erichfischer.jpg)
+<br>
 <span style="color:gray">joao meirelles</span>
 
 ---
-
+![Logo](assets/logo.jpg)
 <span style="color:black; font-size: 1em;">where are cities coming from?</span>
 <br>
 
