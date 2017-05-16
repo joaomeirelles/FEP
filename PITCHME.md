@@ -5,16 +5,30 @@
 
 ---
 
-### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
+<span style="color:black; font-size: 1em;">where are cities coming from?</span>
 <br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+
++++
+
+social guathering!
 
 ---
 
-### No more <span style="color: #666666">Keynote.</span>
-### No more <span style="color: #666666">Powerpoint.</span>
+<span style="color:black; font-size: 1em;">what are cities doing?</span>
 <br>
-### Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.
+
++++
+
+scaling
+
+---
+
+<span style="color:black; font-size: 1em;">whow to make it more efficient (and fun) ?</span>
+<br>
+
++++
+
+entropy
 
 ---
 thanks
