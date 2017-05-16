@@ -1,9 +1,9 @@
 
-<span style="color:black; font-size: 2em;">the kind of problem a city is</span>
+<span style="color:black; font-size: 1.4em;">the kind of problem a city is</span>
 <br>
 ![eric_fischer](pics/erichfischer.jpg)
 <br>
-<span style="color:gray">joao meirelles</span>
+<span style="color:gray; font-size: 1em;">joao meirelles</span>
 
 ---
 ![Logo](assets/logo.jpg)
