@@ -13,12 +13,11 @@
 +++
 <span style="color:black; font-size: 1em;">the conventional thesis</span>
 <br>
-| :blush: `:blush:` |
-:seedling: :seedling: :seedling: :seedling: :seedling:
 
 
 <span style="color:black; font-size: 1em;">agriculture</span><span style="color:grey; font-size: 1.5em;">   ->   </span><span style="color:black; font-size: 1em;">cities</span>
 
+![agriculture](pics/agriculture.jpg)
 
 :seedling: :seedling: :seedling: :seedling: :seedling:
 
