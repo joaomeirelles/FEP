@@ -1,3 +1,7 @@
 p {
 	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
+
+.reveal {
+  font-size: 60px;
+}
