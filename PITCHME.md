@@ -1,5 +1,5 @@
 
-<span style="color:black; font-size: 1.4em;">the kind of problem a city is</span>
+<span style="color:black; font-size: 1.2em;">the kind of problem a city is</span>
 <br>
 ![eric_fischer](pics/erichfischer.jpg)
 <br>
