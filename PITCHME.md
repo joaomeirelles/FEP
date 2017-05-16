@@ -1,10 +1,6 @@
-#### Get the word out
+#### the kind of problem a city is
 <br>
-<span style="color:gray">Markdown Presentations For Everyone</span>
-<br>
-<span style="color:gray">on</span>
-<br>
-<span style="color:gray">GitHub, GitLab and Bitbucket</span>
+<span style="color:gray">joao meirelles</span>
 
 ---
 
