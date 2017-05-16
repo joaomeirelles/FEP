@@ -1,2 +1,1 @@
-theme : white
-theme-override : PITCHME.css
+theme-override : css/PITCHME.css
