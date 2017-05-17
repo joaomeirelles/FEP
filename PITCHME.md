@@ -14,6 +14,8 @@
 ![Video](https://www.youtube.com/watch?v=cBi7v2HwcJ0)
 
 +++
+![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
++++
 <span style="color:grey; font-size: 0.8em;">the conventional thesis</span>
 <br>
 
@@ -30,7 +32,7 @@
 <span style="color:black; font-size: 1em;">interaction desire</span><span style="color:grey; font-size: 1.5em;">   ->   </span><span style="color:black; font-size: 0.8em;">cities</span>
 
 ![ancient1](pics/catal_map_1964.png)
-<span style="color:grey; font-size: 0.5em;">   Çatalhöyük - James Mellaart   </span>
+<span style="color:grey; font-size: 0.3em;">   Çatalhöyük - James Mellaart   </span>
 
 
 ---
