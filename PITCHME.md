@@ -11,10 +11,8 @@
 <br>
 
 +++
-![Video](https://www.youtube.com/watch?v=cBi7v2HwcJ0)
+![Video](https://www.youtube.com/embed/cBi7v2HwcJ0?ecver=2)
 
-+++
-![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 +++
 <span style="color:grey; font-size: 0.8em;">the conventional thesis</span>
 <br>
