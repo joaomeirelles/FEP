@@ -35,20 +35,39 @@
 
 ---
 
-<span style="color:black; font-size: 1em;">why they survive?</span>
+<span style="color:black; font-size: 1em;">why do they grow so much?</span>
 <br>
 
 +++
 
-scaling
+![china](pics/china.jpg)
+<span style="color:grey; font-size: 0.3em;">   Yiwu - Earth Engine   </span>
++++
+examples of bad urban situations
+slums, industrial revolution......
+
++++
+examples of good urban historis:
+gay movement, human rights
++++
+
+science: scaling
+
++++
+better: jane jacobs
 
 ---
 
-<span style="color:black; font-size: 1em;">whow to make it more efficient (and fun) ?</span>
+<span style="color:black; font-size: 1em;">whow to make better cities?</span>
 <br>
 
 +++
+complex systems
 
++++
+shelling model
+
++++
 entropy
 
 ---
