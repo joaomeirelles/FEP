@@ -1,4 +1,13 @@
+.
+---
 
+![temer](pics/temer.jpg)
+
+---
+
+![riots_rio](https://www.youtube.com/embed/FZURP0vPhB4?ecver=2)
+
+---
 <span style="color:black; font-size: 1.2em;">the kind of problem a city is</span>
 <br>
 ![eric_fischer](pics/erichfischer.jpg)
@@ -11,7 +20,7 @@
 <br>
 
 +++
-![Video](https://www.youtube.com/embed/cBi7v2HwcJ0?ecver=2)
+![urban_growth](https://www.youtube.com/embed/cBi7v2HwcJ0?ecver=2)
 
 +++
 <span style="color:grey; font-size: 0.8em;">the conventional thesis</span>
@@ -32,6 +41,9 @@
 ![ancient1](pics/catal_map_1964.png)
 <span style="color:grey; font-size: 0.3em;">   Çatalhöyük - James Mellaart   </span>
 
++++
+necessidade material de interacao!
+interacao simbolica e' satisfeita em sociedades tradcionaias
 
 ---
 
@@ -72,3 +84,12 @@ entropy
 
 ---
 thanks
+
+
+#Jacobs em 69: economy of cities. 
+	capitulo 1. inverte a teoria tradicional - cidades precedem agricultura.
+	capitulo 2. troca dando origem as primeiras cidades 
+#economia das cidades evoluem por escal e especializacao: os fenomenos co-existem 
+#Densidade jacobs:z
+#
+#
