@@ -115,38 +115,28 @@
 ---
 
 <span style="color:black; font-size: 1em;">whow to enhance it's essence?</span>
-<br>
 
 +++
 
 <span style="color:black; font-size: 0.8em;">“cities have the capability of providing something for everybody, only because, and only when, they are created by everybody.”</span>
 <span style="color:grey; font-size: 0.6em;">Jane Jacobs</span>
 
-
 +++
 
 <span style="color:black; font-size: 0.8em;">ingredients of thriving and diverse districts</span>
 
 <span style="color:grey; font-size: 0.6em;">.mixed primary uses</span>
+<br>
 <span style="color:grey; font-size: 0.6em;">.short blocks</span>
+<br>
 <span style="color:grey; font-size: 0.6em;">.aging buildings</span>
+<br>
 <span style="color:grey; font-size: 0.6em;">.population density</span>
 
 +++
-cooperation
 
-+++
-“There is no logic that can be superimposed on the city; people make it, and it is to them, not buildings, that we must fit our plans.” 
-― Jane Jacobs
-
+<span style="color:black; font-size: 0.8em;">“there is no logic that can be superimposed on the city; people make it, and it is to them, not buildings, that we must fit our plans.”</span>
+<span style="color:grey; font-size: 0.6em;">Jane Jacobs</span>
+ 
 ---
 thanks
-
-
-#Jacobs em 69: economy of cities. 
-	capitulo 1. inverte a teoria tradicional - cidades precedem agricultura.
-	capitulo 2. troca dando origem as primeiras cidades 
-#economia das cidades evoluem por escal e especializacao: os fenomenos co-existem 
-#Densidade jacobs:z
-#
-#
