@@ -30,6 +30,7 @@
 <span style="color:black; font-size: 1em;">agriculture</span><span style="color:grey; font-size: 1.5em;">   ->   </span><span style="color:black; font-size: 0.8em;">cities</span>
 
 ![agriculture](pics/agriculture.jpg)
+<span style="color:grey; font-size: 0.3em;">   egypt nile  </span>
 
 
 +++
@@ -60,6 +61,7 @@
 
 <span style="color:black; font-size: 0.8em;">they can be gross</span>
 ![industrial_revolution](pics/industrial_revolution.jpg)
+<span style="color:grey; font-size: 0.3em;">   industrial revoluction - manchester / uk   </span>
 
 +++
 
@@ -69,7 +71,34 @@
 
 +++
 
-science: scaling
+<span style="color:black; font-size: 0.8em;">how to understand it, systematically?</span>
+
++++
+
+![now](pics/scaling_mamals.jpg)
++++
+![now](pics/scaling_mamals.jpg)
++++
+![now](pics/scaling_spatial.jpg)
++++
+![now](pics/scaling_metrics.jpg)
++++
+![now](pics/scaling_temporal_us.jpg)
++++
+![now](pics/scaling_temporal_mexico.jpg)
+
++++
+
+<span style="color:black; font-size: 0.8em;">"A city is first and foremost a social reactor"</span>
+
+
+<span style="color:black; font-size: 0.8em;">“At their most fundamental, cities are not really agglomerations of people; they’re agglomerations of connections between people."</span>
+
+
+<span style="color:black; font-size: 0.6em;">Luis Bettencourt, SFI</span>
+
+
+ 
 
 +++
 better: jane jacobs
