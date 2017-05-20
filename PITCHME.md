@@ -1,11 +1,11 @@
 .
 ---
 
-![temer](pics/temer.jpg)
+![riots_rio](https://www.youtube.com/embed/FZURP0vPhB4?ecver=2)
 
 ---
 
-![riots_rio](https://www.youtube.com/embed/FZURP0vPhB4?ecver=2)
+![temer](pics/temer.jpg)
 
 ---
 <span style="color:black; font-size: 1.2em;">the kind of problem a city is</span>
@@ -36,14 +36,16 @@
 <span style="color:grey; font-size: 0.8em;">another possibility</span>
 <br>
 
-<span style="color:black; font-size: 1em;">interaction desire</span><span style="color:grey; font-size: 1.5em;">   ->   </span><span style="color:black; font-size: 0.8em;">cities</span>
+<span style="color:black; font-size: 1em;">cities</span><span style="color:grey; font-size: 1.5em;">   ->   </span><span style="color:black; font-size: 0.8em;">agriculture</span>
 
 ![ancient1](pics/catal_map_1964.png)
-<span style="color:grey; font-size: 0.3em;">   Çatalhöyük - James Mellaart   </span>
+<span style="color:grey; font-size: 0.3em;">   çatalhöyük  </span>
 
 +++
-necessidade material de interacao!
-interacao simbolica e' satisfeita em sociedades tradcionaias
+
+<span style="color:grey; font-size: 0.8em;">cooperation</span>
+<br>
+![jacobs_labour](pics/jacobs_labour.jpg)
 
 ---
 
@@ -53,14 +55,18 @@ interacao simbolica e' satisfeita em sociedades tradcionaias
 +++
 
 ![china](pics/china.jpg)
-<span style="color:grey; font-size: 0.3em;">   Yiwu - Earth Engine   </span>
+<span style="color:grey; font-size: 0.3em;">   yiwu / china   </span>
 +++
-examples of bad urban situations
-slums, industrial revolution......
+
+<span style="color:black; font-size: 0.8em;">they can be gross</span>
+![industrial_revolution](pics/industrial_revolution.jpg)
 
 +++
-examples of good urban historis:
-gay movement, human rights
+
+<span style="color:black; font-size: 0.8em;">but they can also be meaningful</span>
+![now](pics/now.jpg)
+<span style="color:grey; font-size: 0.3em;">   national organization for women - washington dc / us   </span>
+
 +++
 
 science: scaling
@@ -81,6 +87,9 @@ shelling model
 
 +++
 entropy
+
++++
+cooperation
 
 ---
 thanks
