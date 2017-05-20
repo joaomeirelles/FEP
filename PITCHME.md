@@ -104,8 +104,11 @@
 
 +++
 
-![jj](pics/jj2.png)
+![jj](pics/jj2.jpg)
+<span style="color:black; font-size: 0.8em;">"[cities] are not like suburbs, only denser. They differ from towns and suburbs in basic ways, and one of these is that cities are, by definition, full of strangers.”</span>
 <span style="color:grey; font-size: 0.6em;">Jane Jacobs</span>
+ 
+
 
 +++
  
@@ -129,11 +132,7 @@ shelling model
 +++
 entropy
 
-“By its nature, the metropolis provides what otherwise could be given only by traveling; namely, the strange.” 
-― Jane Jacobs, The Death and Life of Great American Cities
 
-“[Cities] are not like suburbs, only denser. They differ from towns and suburbs in basic ways, and one of these is that cities are, by definition, full of strangers.” 
-― Jane Jacobs, The Death and Life of Great American Cities
 
 
 “There is no logic that can be superimposed on the city; people make it, and it is to them, not buildings, that we must fit our plans.” 
