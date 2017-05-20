@@ -78,8 +78,6 @@
 
 ![now](pics/scaling_mamals.png)
 +++
-![now](pics/scaling_mamals.png)
-+++
 ![now](pics/scaling_spatial.png)
 +++
 ![now](pics/scaling_metrics.png)
@@ -87,23 +85,42 @@
 ![now](pics/scaling_temporal_us.png)
 +++
 ![now](pics/scaling_temporal_mexico.png)
++++
+![now](pics/scaling_cities.png)
++++
+![now](pics/interactions.png)
++++
+
+<span style="color:black; font-size: 0.8em;">"a city is first and foremost a social reactor"</span>
+
+<span style="color:grey; font-size: 0.6em;">luis bettencourt - the origins of scaling in cities</span>
 
 +++
 
-<span style="color:black; font-size: 0.8em;">"A city is first and foremost a social reactor"</span>
+<span style="color:black; font-size: 0.8em;">sidenote: complex systems</span>
 
-<span style="color:grey; font-size: 0.6em;">Luis Bettencourt, SFI</span>
+![jj](pics/complex.png)
 
 
 +++
-better: jane jacobs
 
+![jj](pics/jj2.png)
+<span style="color:grey; font-size: 0.6em;">Jane Jacobs</span>
+
++++
+ 
 ---
 
-<span style="color:black; font-size: 1em;">whow to make better cities?</span>
+<span style="color:black; font-size: 1em;">whow to enhance it's essence?</span>
 <br>
 
 +++
+
+<span style="color:black; font-size: 0.8em;">“cities have the capability of providing something for everybody, only because, and only when, they are created by everybody.”</span>
+<span style="color:grey; font-size: 0.6em;">Jane Jacobs</span>
+
++++
+
 complex systems
 
 +++
@@ -111,6 +128,19 @@ shelling model
 
 +++
 entropy
+
+“By its nature, the metropolis provides what otherwise could be given only by traveling; namely, the strange.” 
+― Jane Jacobs, The Death and Life of Great American Cities
+
+“[Cities] are not like suburbs, only denser. They differ from towns and suburbs in basic ways, and one of these is that cities are, by definition, full of strangers.” 
+― Jane Jacobs, The Death and Life of Great American Cities
+
+
+“There is no logic that can be superimposed on the city; people make it, and it is to them, not buildings, that we must fit our plans.” 
+― Jane Jacobs
+	
+
+
 
 +++
 cooperation
