@@ -105,12 +105,12 @@
 +++
 
 ![jj](pics/jj2.jpg)
-<span style="color:black; font-size: 0.8em;">"[cities] are not like suburbs, only denser. They differ from towns and suburbs in basic ways, and one of these is that cities are, by definition, full of strangers.”</span>
 <span style="color:grey; font-size: 0.6em;">Jane Jacobs</span>
- 
-
 
 +++
+<span style="color:black; font-size: 0.6em;">"[cities] are not like suburbs, only denser. They differ from towns and suburbs in basic ways, and one of these is that cities are, by definition, full of strangers.”</span>
+<span style="color:grey; font-size: 0.6em;">Jane Jacobs</span>
+
  
 ---
 
@@ -122,27 +122,22 @@
 <span style="color:black; font-size: 0.8em;">“cities have the capability of providing something for everybody, only because, and only when, they are created by everybody.”</span>
 <span style="color:grey; font-size: 0.6em;">Jane Jacobs</span>
 
-+++
-
-complex systems
 
 +++
-shelling model
 
-+++
-entropy
+<span style="color:black; font-size: 0.8em;">ingredients of thriving and diverse districts</span>
 
-
-
-
-“There is no logic that can be superimposed on the city; people make it, and it is to them, not buildings, that we must fit our plans.” 
-― Jane Jacobs
-	
-
-
+<span style="color:grey; font-size: 0.6em;">.mixed primary uses</span>
+<span style="color:grey; font-size: 0.6em;">.short blocks</span>
+<span style="color:grey; font-size: 0.6em;">.aging buildings</span>
+<span style="color:grey; font-size: 0.6em;">.population density</span>
 
 +++
 cooperation
+
++++
+“There is no logic that can be superimposed on the city; people make it, and it is to them, not buildings, that we must fit our plans.” 
+― Jane Jacobs
 
 ---
 thanks
